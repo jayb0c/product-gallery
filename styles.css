@@ -1,0 +1,19 @@
+body{
+  background-color: #0D0D0D;
+  color: #BCF26B;
+  display: flex;
+  flex-direction: column;
+  margin: 45px 25px;
+  font-family: futura-pt-bold, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h1{
+  font-size: 70px;
+}
+
+.row{
+  display: flex;
+  width: 100%;
+}
